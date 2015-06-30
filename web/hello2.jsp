@@ -6,7 +6,7 @@
   <body bgcolor=white>
 
   
-    <h1> Hello2 GIT JSP Page</h1>
+    <h1> Hello2 NEW GIT JSP Page</h1>
 
 
   </body>
